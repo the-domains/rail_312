@@ -1,14 +1,9 @@
 ---
-author:
-  - name: IBM Social Media
-    url: 'https://www.youtube.com/user/IBMSocialMedia'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - duration
   - ibm
@@ -21,7 +16,13 @@ keywords:
   - zealand
   - australia
 description: 'more at http://asmarterplanet.com/'
-inLanguage: en
+datePublished: '2015-11-21T20:21:47.429Z'
+dateModified: '2015-11-21T20:20:29.420Z'
+author:
+  - name: IBM Social Media
+    url: 'https://www.youtube.com/user/IBMSocialMedia'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=cfSDnMdVnUA&feature=applinks'
     type: ios
@@ -33,15 +34,16 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=cfSDnMdVnUA&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=cfSDnMdVnUA#action=share'
 title: Building a Smarter Rail System
-datePublished: '2015-11-21T20:15:29.260Z'
-dateModified: '2015-11-21T20:14:35.308Z'
 sourcePath: _posts/2015-11-21-building-a-smarter-rail-system.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: building-a-smarter-rail-system/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
