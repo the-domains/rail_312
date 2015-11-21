@@ -1,0 +1,28 @@
+name: Rail_312
+favicon: null
+layout_spectrum: 0.2382770013064146
+typography_spectrum: 0.8978322148323059
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4754946946632117
+  lightness: 0.5939370314590633
+  saturation: 0.22367162047885358
+  rhythmicContrast: 0.16565141617320478
+purpose: []
